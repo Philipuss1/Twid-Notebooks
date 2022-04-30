@@ -1,2 +1,2 @@
 # Twid-Notebooks
-Shhhh. Secret. You woudn't understand. So don't.
+Shhhh. Secret. You wouldn't understand. So don't.
